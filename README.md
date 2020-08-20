@@ -1,1 +1,1 @@
-# thefront-assets
+# cfb-assets
